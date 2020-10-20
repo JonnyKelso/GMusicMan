@@ -1,0 +1,7 @@
+[ ] Support detecting multiple audio file types
+[ ] Read and output mp3 metadata for a file
+[ ] Read data file to build a struct of required audio file data to search for
+[ ] Decide how to consolidate the library
+[ ] Find an API to gather mp3 metadata online
+[ ] Find out how to check if an album has missing files - check online listing? Discogs?
+[ ] Print out all audio files not part of an album
